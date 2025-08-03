@@ -1,5 +1,5 @@
 ![logo](https://github.com/Latif1218/Latif1218/blob/main/Black%20Modern%20Minimalist%20Simple%20Technology%20Banner%20(1).png)
-<h1 align="center">Hi 👋, I'm MD Abdul Latif Sumon</h1>
+<h1 align="center">Hi 👋, I'm Md Abdul Latif Sumon</h1>
 <h3 align="center">🤖 AI/ML & NLP Enthusiast | Building real-world intelligent apps using Python, PyTorch, LangChain, Hugging Face, OpenAI, and modern full-stack technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=latif1218&label=Profile%20views&color=0e75b6&style=flat" alt="latif1218" /> </p>
