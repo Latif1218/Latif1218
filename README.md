@@ -1,6 +1,41 @@
 ![logo](https://github.com/Latif1218/Latif1218/blob/main/Black%20Modern%20Minimalist%20Simple%20Technology%20Banner%20(1).png)
-<h1 align="center">Hi 👋, I'm Md Abdul Latif Sumon</h1>
+
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=500&color=15B392&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hello+✌🏻;I'm;Md+Abdul+Latif+Sumon;Full+Stack+AI+Engineer;AI%2FML+Specialist;DSA+Enthusiast;Problem+Solver" /></h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=latif1218&label=Profile%20views&color=0e75b6&style=flat" alt="latif1218" /> </p>
+
+##  Tech Universe
+
+### Originium-(Core Languages) 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=py,c,java,js" />
+</div>
+
+### Neural Nebula - (AI/ML/DL/CV)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda" />
+</div>
+
+### Dark Matter Core-(Backend & RAG) 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=fastapi,nginx,redis" />
+</div>
+
+### Starlight Realm-(Frontend) 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</div>
+
+### Galactic Memory-(Databse) 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,mysql" />
+</div>
+
+### Cosmic Forge-(Dev Tools) 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,linux" />
+</div>
+
 
 # 💫 About Me:
 🚀 More Confident:<br>I specialize in Custom AI Model Development, LLM-based systems, and scalable backend solutions with FastAPI.<br>I enjoy turning complex ideas into production-ready systems.<br><br>🔗 Projects & Code:<br>https://github.com/Latif1218?tab=repositories<br>
