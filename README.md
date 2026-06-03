@@ -8,10 +8,15 @@
 
 ### Originium-(Core Languages) 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,c,java,js" />
+    <img src="https://skillicons.dev/icons?i=py,c,java,js,matlab" />
 </div>
 
-### Neural Nebula - (AI/ML/DL/CV)
+### Starlight Realm-(Frontend) 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</div>
+
+### Neural Nebula-(AI & ML & DL & CV)
 <div align="center">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda" />
 </div>
@@ -19,11 +24,9 @@
 ### Dark Matter Core-(Backend & RAG) 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=fastapi,nginx,redis" />
-</div>
-
-### Starlight Realm-(Frontend) 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+    <img src="https://raw.githubusercontent.com/Latif1218/Latif1218/main/icons/langchain.webp" width="48" height="48" alt="LangChain" />
+    <img src="https://raw.githubusercontent.com/Latif1218/Latif1218/main/icons/langgraph.webp" width="48" height="48" alt="LangGraph" />
+    <img src="https://raw.githubusercontent.com/Latif1218/Latif1218/main/icons/langsmith.webp" width="48" height="48" alt="LangSmith" />
 </div>
 
 ### Galactic Memory-(Databse) 
@@ -34,6 +37,16 @@
 ### Cosmic Forge-(Dev Tools) 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,linux" />
+</div>
+
+### Void Intelligence-(LLMs)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Latif1218/Latif1218/main/icons/openai.webp" width="48" height="48" alt="OpenAI" />
+  <img src="https://raw.githubusercontent.com/Latif1218/Latif1218/main/icons/anthropic.webp" width="48" height="48" alt="Anthropic" />
+  <img src="https://raw.githubusercontent.com/Latif1218/Latif1218/main/icons/claude.webp" width="48" height="48" alt="Claude" />
+  <img src="https://raw.githubusercontent.com/Latif1218/Latif1218/main/icons/gemini.webp" width="48" height="48" alt="Gemini" />
+  <img src="https://raw.githubusercontent.com/Latif1218/Latif1218/main/icons/huggingface.webp" width="48" height="48" alt="HuggingFace" />
+  <img src="https://raw.githubusercontent.com/Latif1218/Latif1218/main/icons/ollama.webp" width="48" height="48" alt="Ollama" />
 </div>
 
 
