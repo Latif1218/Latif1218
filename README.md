@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Latif1218/Latif1218/main/icons/openart-gpt-image-2-1_1780545499410_a08d4084.png" width="400" height="350" alt="Logo" />
+    <img src="https://raw.githubusercontent.com/Latif1218/Latif1218/main/icons/openart-gpt-image-2-1_1780545499410_a08d4084.png" width="300" height="280" alt="Logo" />
 </div>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=500&color=15B392&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hello+✌🏻;I'm;Md+Abdul+Latif+Sumon;Full+Stack+AI+Engineer;AI%2FML+Specialist;DSA+Enthusiast;Problem+Solver" /></h1>
