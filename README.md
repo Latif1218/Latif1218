@@ -78,6 +78,9 @@
   <a href="https://github.com/Latif1218?tab=repositories">
     <img src="https://raw.githubusercontent.com/Latif1218/Latif1218/main/icons/icons8-github-96.png" width="48" height="48" alt="github all repos.." />
   </a>
+  <a href="https://leetcode.com/u/Md_Abdul_Latif/">
+    <img src="https://raw.githubusercontent.com/Latif1218/Latif1218/main/images/LeetCode_logo_black.png" width="48" height="48" alt="Leetcode all repos.." />
+  </a>
 </p>
 
 
