@@ -88,6 +88,10 @@
   <a href="mailto:mdsabdullotif@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+
+  <a href="https://www.linkedin.com/in/mdabdullatifsumon/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ### Github Contribution
